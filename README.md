@@ -9,9 +9,9 @@ This is a simple and fun Drum Kit web application built using HTML, CSS, and Jav
 * Simple Animations: Buttons animate when pressed, enhancing the user experience.
 
 ## Built With:
-HTML5 for the structure.
-CSS3 for styling and layout.
-JavaScript for interactivity and audio playback.
+- HTML5 for the structure.
+- CSS3 for styling and layout.
+- JavaScript for interactivity and audio playback.
 
 ## How to Use:
 1. Clone or download the repository.
